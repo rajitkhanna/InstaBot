@@ -3,7 +3,7 @@ from time import sleep
 
 url = "https://instagram.com"
 username = "born2kickbooty"
-password = "Non!2005GJ"
+password = ""
 
 class InstaBot:
     def __init__(self, username, password):
